@@ -1,0 +1,2 @@
+Learn basic python
+Learn Flusk with SQLAlchemy for API
